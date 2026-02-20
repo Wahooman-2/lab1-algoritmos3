@@ -4,7 +4,7 @@ Brian Orta
 
 Instrucciones de uso:
   Colocar todos los archivos .kt, el archico friends.sh, el archivo de texto input.txt y el makefile en una carpeta, ejecutar el comando "make" para crear el archivo .jar
-  y luego usar el comando "./friends.sh <pesona1> <persona2>.
+  y luego usar el comando "./friends.sh <pesona1> <persona2>".
 
 Descripción del programa:
   Este programa usa la implementación de un grafo con listas de adyacencias guardado en Grafo.kt y ListaAdyacenciaGrafo.kt para calcular el grado de separación entre dos
