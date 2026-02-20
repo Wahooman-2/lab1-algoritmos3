@@ -16,4 +16,4 @@ Descripción del programa:
   camino con éxito, y pueda retornar una lista con el camino de la persona de inicio a la persona objetivo. Si BFS no encuentra un camino valido, retorna null. 
 
   Luego, el código utiliza la lista con el camino encontrado y utiliza su tamaño para calcular el grado de separación entre las dos personas, si el código recibe null,
-  simplemente retorna -1.
+  simplemente retorna "-1".
